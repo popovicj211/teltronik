@@ -1,0 +1,152 @@
+[
+    {
+         "ime":"SAMSUNG SMART UE43MU6122KXXH LED",
+         "tipekrana" : "LED",
+         "brinca" : 43,
+         "rezolucija" : "4k Ultra HD",
+         "procesor" : "Quad Core",
+         "smarttv" : "Da",
+         "digtjuner" : "DVB-T2/C",
+         "cena" : 54.999,
+          "ocena": 7,
+         "slike" :  {
+             "src" : "slike/samsungtv1.jpg",
+              "alt" : "Samsung smart ue43mu6122kxxh led"
+         },
+         "model" : {
+             "id": 1,
+             "naziv": "Samsung"
+         }
+         
+    },
+    {
+        "ime":"SAMSUNG SMART UE55NU7172UXXH LED",
+        "tipekrana" : "LED",
+        "brinca" : 55,
+        "rezolucija" : "4k Ultra HD",
+        "procesor" : "Quad Core",
+        "smarttv" : "Da",
+        "digtjuner" : "DVB-T2/C/S2",
+        "cena" : 89.999,
+        "ocena": 8,
+        "slike" :  {
+            "src" : "slike/samsungtv2.jpg",
+             "alt" : "Samsung smart ue55nu7172uxxh led"
+        },
+        "model" : {
+            "id": 1,
+            "naziv": "Samsung"
+        }
+        
+   },
+ 
+{
+    "ime":"TESLA SMART 55T609SUS LED",
+    "tipekrana" : "LED",
+    "brinca" : 55,
+    "rezolucija" : "4k Ultra HD",
+    "procesor" : "Dual Core",
+    "smarttv" : "Da",
+    "digtjuner" : "DVB-T/T2/C/S/S2",
+    "cena" : 56.690,
+    "ocena": 7,
+    "slike" :  {
+        "src" : "slike/teslatv1.jpg",
+         "alt" : "Tesla smart 55t609sus led"
+    },
+    "model" : {
+        "id": 2,
+        "naziv": "Tesla"
+    }
+    
+},
+
+{
+    "ime":"TESLA SMART 49S367BFS LED",
+    "tipekrana" : "LED",
+    "brinca" : 49,
+    "rezolucija" : "1080p Full HD",
+    "procesor" : "",
+    "smarttv" : "Da",
+    "digtjuner" : "DVB-T/T2/C/S/S2",
+    "cena" : 43.999,
+    "ocena": 6,
+    "slike" :  {
+        "src" : "slike/teslatv2.jpg",
+         "alt" : "Tesla smart 49s367bfs led"
+    },
+    "model" : {
+        "id": 2,
+        "naziv": "Tesla"
+    }
+    
+},
+
+
+
+{
+    "ime":"VOX SMART 65DLE888 LED",
+    "tipekrana" : "QLED",
+    "brinca" : 65,
+    "rezolucija" : "4k Ultra HD",
+    "procesor" : "Dual Core",
+    "smarttv" : "Da",
+    "digtjuner" : "DVB-T/C/T2",
+    "cena" : 72.999,
+    "ocena": 7,
+    "slike" :  {
+        "src" : "slike/foxtv2.jpg",
+         "alt" : "Vox smart 65dle888 led,"
+    },
+    "model" : {
+        "id": 3,
+        "naziv": "Vox"
+    }
+    
+},
+
+{
+    "ime":"LG OLED55B8PLA Smart OLED",
+    "tipekrana" : "OLED",
+    "brinca" : 55,
+    "rezolucija" : "4k Ultra HD",
+    "procesor" : "Alpha 7",
+    "smarttv" : "Da",
+    "digtjuner" : "DVB-T2/C/S2",
+    "cena" : 219.999,
+    "ocena": 10,
+    "slike" :  {
+        "src" : "slike/lgtv1.jpg",
+         "alt" : "Lg oled55b8pla smart oled"
+    },
+    "model" : {
+        "id": 4,
+        "naziv": "LG"
+    }
+    
+},
+
+{
+    "ime":"LG 32LV340C LED",
+    "tipekrana" : "LED",
+    "brinca" : 32,
+    "rezolucija" : "1080p Full HD",
+    "procesor" : "Nema",
+    "smarttv" : "Ne",
+    "digtjuner" : "DVB-T2/C/S2",
+    "cena" : 28.999,
+    "ocena": 5,
+    "slike" :  {
+        "src" : "slike/lgtv2.jpg",
+         "alt" : "Lg 32lv340c led"
+    },
+    "model" : {
+        "id": 4,
+        "naziv": "LG"
+    }
+    
+}
+
+    
+    
+ ]

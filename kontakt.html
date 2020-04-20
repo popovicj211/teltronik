@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+             <title>Kontakt</title>
+            <link rel="stylesheet" type="text/css" href="css/stil.css"/>
+			<link rel="stylesheet" type="text/css" href="css/lightbox.css"/>
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+			<meta charset="utf-8"/>
+			 <meta name="keywords" content="ime,prezime,šifra,email adresa,model automobila,broj mobilnog,mesto" />
+	        <meta name="description" content="Popunjavanje forme za naručivanje polovnog automobila."/>
+	        <meta name="author" content="Jovan Popovic"/>
+</head>
+<body>
+          
+             <div id="header">
+					 
+		             <div class="wrapper">
+					             
+								         
+					                   
+								         
+										      <div class="logo"> <h1> <a href="index.html">Teltronik</a> </h1> </div>    
+								              <ul id="menulist">
+								                   <li class="link"><a href="index.html">Početna </a></li>
+												   <li class="dropdown"><a href="tvmob.html">Elektronika </a>
+                                                              <ul class="dropdown-content">
+                                                                          <li> <a href="televizori.html">Televizori</a> </li>
+                                                                          <li>  <a href="mobilni.html">Mobilni</a> </li>
+                                                                          
+                                                              </ul>
+                                                    </li>
+										           <li class="link"><a href="galerija.html"> Galerija </a></li>
+										           <li class="link"><a href="kontakt.html">Kontakt </a></li>
+										           <li class="link"><a href="o_autoru.html">O autoru </a></li>
+										  
+								              </ul>
+							                  <div class="cleaner"></div>	
+                                		 						
+					 </div>
+					 
+					
+					   
+		   </div>
+		    <div id="slider">
+		             <div class="wrapper">
+					             <div id="slideshow">
+					                            
+													 <img src="slike/slide.jpg" alt="Slajder automobili" />	 
+					              </div>       
+					 </div>        
+		   </div>
+		    <div class="wrapper">
+			         
+					 <div class="content_sale">
+					              <div class="header_text">  <h1> Kontakt</h1>  </div>
+								  
+								   <div id="contact_text"> 
+		                                                       <p> Naše televizore i mobilne telefone možete naručiti preko naše web stranice ili email adrese teltronik@gmail.com. Nalazimo se u ulici  Dragoslava Srejovića 50 na Karaburmi.
+															   Radno vreme je radnim danima 08h-20h, a subotom 8h-14h.  </p> 
+		                           </div>
+								   
+								   <div id="contact_form"> 
+		                                 
+										<form method="post" action="auto.php" name="formular" id="formular">
+											   <table  width="450px" cellpadding="2" >
+													  
+													  
+													  <tr>
+															  <td>  <label> Ime i prezime(Mika Mikić):  </label>   </td>
+															  <td>  <label> Šifra(abc1234):  </label>  </td>
+													  </tr>
+													  <tr>
+															 <td><input type="text" name= "contact_name1" class="contact_name" id="imePrezime"   />  </td>
+															 <td> <input type="password" name="contact_password" class="contact_name" id="sifra"   />  </td>
+													   </tr>
+													   <tr>
+															  <td>   <label> Email(pera.peric@gmail.com):  </label>  </td>
+															  <td>  <label> Model automobila:  </label>  </td>
+													  </tr>
+													  <tr>
+															  <td> <input type="text" name="contact_usermail" class="contact_name" id="emailAdresa"   />  </td>
+															   <td>     <select name="list" id="list" class="listClass" >
+																					<option value="0">  Izaberite  </option>
+																					<option value="aa3">  Audi A3  </option>
+																					 <option value="aa6">  Audi A6  </option>
+																					<option value="vwg5">  Volkswagen Golf5 </option>
+																					  <option value="vwpb7">  Volkswagen Passat B7 </option>
+																					<option value="rc"> Renualt Clio</option>
+																					<option value="rm"> Renualt Megane</option>
+																					<option value="hc"> Honda Civic</option>
+																					 <option value="hb"> Honda Brio</option>
+																			
+																		</select> </td>
+													  </tr>
+													  <tr>
+															  <td>  <label> Mesto:  </label>   </td>
+															  <td>  <label> Broj mobilnog(069999999):  </label>  </td>
+													  </tr>
+													  <tr>
+															 <td>   <select name="listCity" id="grad" class="listClass" >
+																              <option value="0">  Izaberite  </option>
+																              <option value="bg">  Beograd  </option>
+																              <option value="ns">  Novi Sad  </option>
+																			  <option value="niš"> Niš </option>
+																			  <option value="ša"> Šabac </option>
+																			  <option value="va"> Valjevo </option>
+																			  <option value="sm"> Smederevo </option>
+																			  <option value="po"> Požarevac </option>
+																			  <option value="lo"> Loznica </option>
+																              <option value="kg">  Kragujevac </option>
+																              <option value="kv"> Kraljevo </option>
+																              <option value="ča"> Čačak </option>
+																			  <option value="už"> Užice</option>
+																			  <option value="su"> Subotica</option>
+																			  <option value="zr"> Zrenjanin</option>
+																			  <option value="le"> Leskovac</option>
+																			  <option value="vr"> Vranje</option>
+														
+													                  </select>  
+												        </td>
+															 <td> <input type="text" name="contact_address" class="contact_name" id="tel"  />  </td>
+													   </tr>
+													
+													
+													  <tr height="30px"> 
+															<td colspan="2"> 
+															
+															<input type="button"   name="send" id="send" value="Pošalji" />
+															<input type="button"   name="reset" id="reset" value="Resetuj" /> </td>  
+													  </tr>
+													  
+													  
+											</table>
+									  </form>	
+										<div id="print"> </div>		  
+				      
+		                         </div>
+					</div>
+					 
+			</div>	
+             
+			
+			<div id="footer">
+			           <div class="wrapper">
+					         
+					          
+			                               <ul>
+			                                 	<li><a href="rss.xml" > <i class="fa fa-rss"></i> </a></li>
+			         	                        <li><a href="https://www.facebook.com/" > <i class="fa fa-facebook"> </i>   </a></li>
+												 <li><a href="https://www.instagram.com/"> <i class="fa fa-instagram"></i> </a></li>
+				                                <li><a href="sitemap.xml"> <i class="fa fa-sitemap"></i> </a></li>
+				                              
+												
+			                              </ul> 
+										  
+								 <p class="copyright"> Copyright &copy; <a href="mailto:jovan.popovic.60.16@ict.edu.rs"> Jovan Popović 2017</a> </p> 
+		                          
+	
+                             
+                               <div class="cleaner"></div>						  
+					   </div>
+			</div>		
+			<div id="scrollToTop"><i class="fa fa-angle-double-up" style="font-size:36px;color:#fff"></i></div>
+		 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.0.3/jquery.cycle.all.min.js"></script>
+		 <script type="text/javascript" src="js/jscript.js"></script>
+		 <script type="text/javascript" src="js/provera.js"></script>
+		 <script type="text/javascript" src="js/skrol.js"></script> 
+</body>
+</html>

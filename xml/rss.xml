@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>CarShopPopovic </title>
+		<link> </link>
+		<description>Naslovna strana CarShopPopovic RSS </description>
+	</channel>
+
+	<item>
+		<title>Cena automobila</title>
+		<link> </link>
+		<description>Ovde možete da pogledate spicifikaciju i cenu automobila </description>
+	</item>
+
+	<item>
+		<title>O automobilima</title>
+		<link></link>
+		<description>  Značenje i opis ponuđenih modela automobila </description>
+	</item>
+
+</rss>

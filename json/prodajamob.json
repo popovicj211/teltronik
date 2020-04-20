@@ -1,0 +1,151 @@
+[
+   {
+        "ime":"SAMSUNG GALAXY A6+ 2018",
+		"os" : "Android 8.0",
+		"rezolucija" : "2220 x 1080",
+		"ram" : 3 ,
+		"procesor" : "Qualcomm Octa-core 1.8 GHz",
+		"prednjakamera" : "24 Mpix",
+		"zadnjakamera" : "16 + 5 Mpix",
+		"internamemorija" : 32 ,
+		"cena" : 32.999,
+		"ocena" : 5,
+		"slike" :  {
+			"src" : "slike/samgala6+.jpg",
+			 "alt" : "Samsung galaxy a6+"
+		},
+		"model" : {
+			"id": 1,
+		    "naziv": "Samsung"
+		}
+		
+   },
+   {
+	"ime":"SAMSUNG GALAXY S9+",
+	"os" : "Android 8.0",
+	"rezolucija" : "2960 x 1440",
+	"ram" : 6  ,
+	"procesor" : "Octa-core: 4 x 2.7GHz + 4 x 1.7GHz (Exynos 9810)",
+	"prednjakamera" :"8 Mpix" ,
+	"zadnjakamera" : "12 + 12 Mpix",
+	"internamemorija" : 64 ,
+	"cena" : 99.999  ,
+	"ocena" : 10,
+	"slike" :  {
+				   "src" : "slike/samgals9+.jpg",
+					"alt" : "Samsung galaxy s9+"
+			   },
+     "model" : {
+				"id": 1,
+				"naziv": "Samsung"
+			}
+	
+},
+{
+	"ime":"APPLE IPHONE XR 64GB BLACK",
+	"os" : "IOS 12",
+	"rezolucija" : "1792 x 828",
+	"ram" : 3 ,
+	"procesor" : "Hexa-core (Dual-core Vortex & Quad-core Tempest)",
+	"prednjakamera" : "7 Mpix" ,
+	"zadnjakamera" : "12 Mpix",
+	"internamemorija" : 64 ,
+	"cena" :  117.199 ,
+	"ocena" : 10,
+	"slike" :  {
+				   "src" : "slike/iphonexr.jpg",
+					"alt" : "Iphone xr"
+			   },
+	 "model" : {
+				  "id": 2,
+				  "naziv": "IPhone"
+			  }
+	
+},
+{
+	"ime":"APPLE IPHONE 8 64GB BLACK",
+	"os" : "IOS 11",
+	"rezolucija" : "1334 x 750",
+	"ram" : 2 ,
+	"procesor" : "Hexa-core (Dual-core Monsoon & Quad-core Mistral)",
+	"prednjakamera" : "7 Mpix",
+	"zadnjakamera" : "12 Mpix",
+	"internamemorija" : 64 ,
+	"cena" : 93.090,
+	"ocena" : 9,
+	"slike" :  {
+				   "src" : "slike/iphone8.jpg",
+					"alt" : "Iphone 8"
+			   },
+	 "model" : {
+					"id": 2,
+					"naziv": "IPhone"
+				}
+	
+},
+{
+	"ime":"HUAWEI MATE 20 LITE",
+	"os" : "Android 8.1",
+	"rezolucija" : "2340 x 1080",
+	"ram" : 4 ,
+	"procesor" : "Octa-core (Quad-core 2.2 GHz & Quad-core 1.7 GHz)",
+	"prednjakamera" :"24 + 2Mpix" ,
+	"zadnjakamera" : "20 + 2Mpix",
+	"internamemorija" : 64 ,
+	"cena" :  49.999 ,
+	"ocena" : 7,
+	"slike" :  {
+				   "src" : "slike/huaweim20l.jpg",
+					"alt" : "Huawei mate 20 lite"
+			   },
+	 "model" : {
+				  "id": 3,
+				"naziv": "Huawei"
+			  }
+	
+},
+{
+	"ime":"HUAWEI Y6 2018",
+	"os" : "Android 8.0",
+	"rezolucija" : "1440 x 720",
+	"ram" : 2 ,
+	"procesor" : "Qualcomm MSM8917 Quad-core 1.4GHz",
+	"prednjakamera" : "5 Mpix",
+	"zadnjakamera" : "13 Mpix",
+	"internamemorija" : 16 ,
+	"cena" : 16.999  ,
+	"ocena" : 4,
+	"slike" :  {
+				   "src" : "slike/huaweiy6.jpg",
+					"alt" : "Huawei y6"
+			   },
+	"model" : {
+					"id": 3,
+				 "naziv": "Huawei"
+			}
+	
+},
+{
+	"ime":"NOKIA 5",
+	"os" : "Android 7.1.1",
+	"rezolucija" : "1280 x 720",
+	"ram" : 2 ,
+	"procesor" : "Octa-core 1.4 GHz Cortex-A53",
+	"prednjakamera" : "8 Mpix",
+	"zadnjakamera" : "13 Mpix",
+	"internamemorija" : 16 ,
+	"cena" : 18.999  ,
+	"ocena" : 4,
+	"slike" :  {
+				   "src" : "slike/nokia5.jpg",
+					"alt" : "Nokia 5"
+			   },
+	  "model" : {
+				"id": 4,
+				"naziv": "Nokia"
+		 	}
+	
+}
+   
+   
+]
